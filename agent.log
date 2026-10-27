@@ -1,0 +1,101 @@
+2026-10-17 16:50:20,612 - INFO - Support agent started
+2026-10-17 16:50:21,159 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:50:21,687 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:50:22,193 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:50:22,695 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:50:32,211 - INFO - Ticket lookup requested for ID 101
+2026-10-17 16:50:37,305 - INFO - Ticket lookup requested for ID 999
+2026-10-17 16:50:37,305 - WARNING - Ticket ID 999 was not found
+2026-10-17 16:52:24,501 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:52:24,992 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:52:25,498 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:52:25,982 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:52:25,985 - INFO - Ticket lookup requested for ID 101
+2026-10-17 16:52:25,985 - INFO - Ticket lookup requested for ID 102
+2026-10-17 16:52:25,985 - INFO - Ticket lookup requested for ID 103
+2026-10-17 16:52:25,986 - INFO - Ticket lookup requested for ID 999
+2026-10-17 16:52:25,986 - WARNING - Ticket ID 999 was not found
+2026-10-17 16:52:25,986 - INFO - Processing a general support question
+2026-10-17 16:52:26,467 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:52:26,473 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 16:52:30,870 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-17 16:52:30,893 - INFO - Processing a general support question
+2026-10-17 16:52:31,359 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:52:31,365 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 16:52:34,442 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-17 16:55:06,399 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:55:06,884 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:55:07,381 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:55:07,882 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:55:07,887 - INFO - Ticket lookup requested for ID 101
+2026-10-17 16:55:07,888 - INFO - Ticket lookup requested for ID 102
+2026-10-17 16:55:07,888 - INFO - Ticket lookup requested for ID 103
+2026-10-17 16:55:07,889 - INFO - Ticket lookup requested for ID 999
+2026-10-17 16:55:07,889 - WARNING - Ticket ID 999 was not found
+2026-10-17 16:55:07,889 - INFO - Processing a general support question
+2026-10-17 16:55:08,399 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:55:08,406 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 16:55:11,303 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-17 16:55:11,323 - INFO - Processing a general support question
+2026-10-17 16:55:11,796 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 16:55:11,813 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 16:55:15,661 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-17 17:02:28,213 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:02:28,724 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:02:29,233 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:02:29,732 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:02:40,571 - INFO - Ticket lookup requested for ID 101
+2026-10-17 17:03:04,974 - INFO - Ticket lookup requested for ID 999
+2026-10-17 17:03:04,974 - WARNING - Ticket ID 999 was not found
+2026-10-17 17:03:12,968 - INFO - Processing a general support question
+2026-10-17 17:03:13,487 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:03:13,501 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 17:03:16,599 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-10-17 17:03:16,599 - ERROR - Failed to answer customer question
+Traceback (most recent call last):
+  File "C:\Documents\Support Agent\support-agent\app.py", line 70, in <module>
+    answer = handle_customer_question(
+  File "C:\Documents\Support Agent\support-agent\agent.py", line 71, in handle_customer_question
+    return generate_policy_answer(
+  File "C:\Documents\Support Agent\support-agent\agent.py", line 143, in generate_policy_answer
+    response = client.models.generate_content(
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\models.py", line 6288, in generate_content
+    response = self._generate_content_with_continuation(
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\models.py", line 6129, in _generate_content_with_continuation
+    response = self._generate_content(
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\models.py", line 4668, in _generate_content
+    response = self._api_client.request(
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\_api_client.py", line 1839, in request
+    response = self._request(http_request, http_options, stream=False)
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\_api_client.py", line 1632, in _request
+    return self._retry(self._request_once, http_request, stream)  # type: ignore[no-any-return]
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\tenacity\__init__.py", line 470, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\tenacity\__init__.py", line 371, in iter
+    result = action(retry_state)
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\tenacity\__init__.py", line 413, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\tenacity\__init__.py", line 184, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 438, in result
+    return self.__get_result()
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 390, in __get_result
+    raise self._exception
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\tenacity\__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\_api_client.py", line 1609, in _request_once
+    errors.APIError.raise_for_response(response)
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\errors.py", line 173, in raise_for_response
+    cls.raise_error(response.status_code, response_json, response)
+  File "C:\Documents\Support Agent\support-agent\.venv\lib\site-packages\google\genai\errors.py", line 204, in raise_error
+    raise ServerError(status_code, response_json, response)
+google.genai.errors.ServerError: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}
+2026-10-17 17:03:19,829 - INFO - Processing a general support question
+2026-10-17 17:03:20,358 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:03:20,371 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 17:03:23,156 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"
+2026-10-17 17:06:27,232 - INFO - Ticket lookup requested for ID 101
+2026-10-17 17:06:33,075 - INFO - Processing a general support question
+2026-10-17 17:06:33,651 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-embedding-001:batchEmbedContents "HTTP/1.1 200 OK"
+2026-10-17 17:06:33,661 - INFO - AFC is enabled with max remote calls: 10.
+2026-10-17 17:06:41,518 - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent "HTTP/1.1 200 OK"

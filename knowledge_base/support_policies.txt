@@ -1,0 +1,33 @@
+SUPPORT TICKET POLICIES
+
+1. Ticket Status
+
+An open ticket means that the support team is still working on
+the customer's issue.
+
+A closed ticket means that the issue has been resolved or the
+support process has been completed.
+
+A ticket that cannot be found may have an incorrect ticket ID
+or may not exist in the system.
+
+2. Delayed Tickets
+
+If a ticket remains open for more than three days, the customer
+should contact the support team and provide their ticket ID.
+
+The support team should review the ticket and provide an update.
+
+3. Ticket Information
+
+Customers should provide their correct ticket ID when asking
+about their ticket status.
+
+Customers should never share their account passwords when
+requesting support.
+
+4. Escalation
+
+If an issue remains unresolved after contacting the support team,
+the customer may request that the issue be escalated for further
+review.

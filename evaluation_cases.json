@@ -1,0 +1,41 @@
+[
+    {
+        "question": "What is the status of ticket 101?",
+        "expected_answer": "Ticket 101 status: open",
+        "test_type": "ticket_status"
+    },
+    {
+        "question": "What is the status of ticket 102?",
+        "expected_answer": "Ticket 102 status: closed",
+        "test_type": "ticket_status"
+    },
+    {
+        "question": "What is the status of ticket 103?",
+        "expected_answer": "Ticket 103 status: in progress",
+        "test_type": "ticket_status"
+    },
+    {
+        "question": "What is the status of ticket 999?",
+        "expected_answer": "Ticket 999 status: Ticket not found",
+        "test_type": "ticket_status"
+    },
+    {
+        "question": "What should I do if my ticket has been open for more than three days?",
+        "expected_answer": "Contact support and provide the ticket ID so the team can review the issue and provide an update.",
+        "test_type": "rag",
+        "required_phrases": [
+            "contact",
+            "support",
+            "ticket id"
+        ]
+    },
+    {
+        "question": "Does the support policy specify a refund policy?",
+        "expected_answer": "The available support documentation does not specify a refund policy.",
+        "test_type": "rag",
+        "required_phrases": [
+            "does not specify",
+            "refund policy"
+        ]
+    }
+]
